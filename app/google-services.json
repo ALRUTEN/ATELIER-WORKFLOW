@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "814371485619",
+    "firebase_url": "https://atelierworkflow-d4e55.firebaseio.com",
+    "project_id": "atelierworkflow-d4e55",
+    "storage_bucket": "atelierworkflow-d4e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814371485619:android:0f0e2063d80a101b",
+        "android_client_info": {
+          "package_name": "com.example.apprenti.atelierworkflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814371485619-5e25c3pfbmt213ouqsmair7065vo9fbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apprenti.atelierworkflow",
+            "certificate_hash": "80971b8a5e6162d48dc6c265316d779c227160f7"
+          }
+        },
+        {
+          "client_id": "814371485619-86rgrnltec72kcccpv3n4j1v5gaok0ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SHa6tMVwXtETfa_rRcXkozXF9wx6tnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814371485619-86rgrnltec72kcccpv3n4j1v5gaok0ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
