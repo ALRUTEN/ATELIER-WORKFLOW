@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ATELIER WORKFLOW</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">MAP</string>
 </resources>
